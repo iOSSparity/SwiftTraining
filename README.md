@@ -26,6 +26,7 @@ Basic Operators
 
 # 12-12-2016 
 - Strings and Characters
+
 # 13-12-2016
 - while,repeat-while
 - switch
