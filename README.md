@@ -51,3 +51,6 @@ Basic Operators
 - Function Types as Parameter Types
 - Nested Functions
 - Closures
+- Ref1: http://www.aidanf.net/learn-swift/functions
+- Ref2: https://www.weheartswift.com/functions/
+- Ref3: https://airspeedvelocity.net/2014/06/11/a-basic-tutorial-on-functions-and-closures-in-swift/
