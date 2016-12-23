@@ -35,10 +35,10 @@ Basic Operators
 # 22-12-2016 , 23-12-2016
 - What is a function - Define,Calling
 - Functions Parameters and Return Values
- -Function Without Parameters
- -Functions with multiple Parameters
- -Functions Without Return Values
- -Functions with multiple return Values
+- Function Without Parameters
+- Functions with multiple Parameters
+- Functions Without Return Values
+- Functions with multiple return Values
 - Optional Tuple return types
 - Function Argument Labels and Parameter Names
 - Specifying Argument Labels
