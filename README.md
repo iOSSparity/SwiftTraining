@@ -15,7 +15,7 @@ Swift Docs and Playgrounds
 # 8-12-2016
 Basic Operators
 - Arithmetic
-- Remainder 
+- Remainder
 - Unary Minus
 - Compound Assignments
 - Comparison
@@ -24,7 +24,7 @@ Basic Operators
 - Logical Operators
 - Bit Operators
 
-# 12-12-2016 
+# 12-12-2016
 - Strings and Characters
 
 # 13-12-2016
@@ -54,3 +54,31 @@ Basic Operators
 - Ref1: http://www.aidanf.net/learn-swift/functions
 - Ref2: https://www.weheartswift.com/functions/
 - Ref3: https://airspeedvelocity.net/2014/06/11/a-basic-tutorial-on-functions-and-closures-in-swift/
+
+# Date (Arrays and its helper methods)
+- Arrays Basics
+- Arrays Types
+- Array Protocols
+- Map, Filter, Reduce, Contains, Split etc.
+
+# Classes and Structures
+- Class and Struct
+- Differences
+- Memberwise initializers
+- Structs and enums are value types
+- Classes are reference types
+- Identity Operators
+- Assignment and copy behavious of Strings, Arrays and Dictionaries
+
+# Properties
+- Stored Properties and its constant structure instances
+- Lazy Stored Properties
+- Computed Properties
+- Read-Only Computed Properties
+- Property Observers
+
+#sets and Dictionaries
+- sets Basics
+- Intersection, Union, substract etc.,
+- Dictionaries
+- Dictionary - Hashable and AnyHashable concepts
