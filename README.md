@@ -82,3 +82,14 @@ Basic Operators
 - Intersection, Union, substract etc.,
 - Dictionaries
 - Dictionary - Hashable and AnyHashable concepts
+# 9,10-1-2017
+- 1.Methods vs Functions
+- 2.Instance Methods
+- 3.Type Methods
+- 4.Type Variables
+- 5.Subscripts
+- 6.Inheritance
+# 11-1-2017
+- TypeCasting
+- PolyMorphism
+- Dynamic Binding
